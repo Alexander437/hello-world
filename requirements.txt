@@ -1,0 +1,8 @@
+awscli
+boto3
+moto
+pytest
+pylint
+jupyter
+pandas
+pytest-cov
